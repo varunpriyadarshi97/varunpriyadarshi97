@@ -27,7 +27,8 @@ My personal repository
 
 - 👀 I’m interested in Full Stack Web Developer
 
-- 🌱 I’m currently learning **React Js**
+<!-- - 🌱 I’m currently learning **React Js** -->
+- 🌱 I’m currently learning **Python and Django**
 
 <!-- - 💬 Ask me about **JavaScript, ReactJs, Nodejs and Python** -->
 - 💬 Ask me about **Python and Django**
