@@ -29,7 +29,8 @@ My personal repository
 
 - 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **JavaScript, ReactJs, Nodejs and Python**
+<!-- - 💬 Ask me about **JavaScript, ReactJs, Nodejs and Python** -->
+- 💬 Ask me about **Python and Django**
   
 - 📫 How to reach me **official.varunpriyadarshi@gmail.com**
 
